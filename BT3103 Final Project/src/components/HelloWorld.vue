@@ -21,7 +21,7 @@ defineProps({
 <style scoped>
 h1 {
   font-weight: 600;
-  font-size: 2.6rem;
+  font-size: 2.65rem;
   position: relative;
   top: -10px;
 }
@@ -29,8 +29,10 @@ h1 {
 h3 {
   font-weight: 400;
   font-size: 1.2rem;
+  color: red;
   top: -10px;
   position: relative;
+  text-align: center;
 }
 
 .greetings h1,
